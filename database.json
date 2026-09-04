@@ -1,0 +1,1284 @@
+{
+  "users": {
+    "1495914495": {
+      "registered": true,
+      "nama": "Ipin",
+      "password": "Ipin",
+      "coin": 8037000,
+      "joined": true,
+      "lastClaim": 1788459454593,
+      "isBanned": false,
+      "isVip": false,
+      "misiSelesai": false
+    },
+    "8875869878": {
+      "coin": 10000000,
+      "joined": false,
+      "refCount": 0,
+      "lastClaim": 0,
+      "isBanned": false,
+      "isVip": false,
+      "misiSelesai": false
+    },
+    "6614829903": {
+      "registered": true,
+      "nama": "Upin",
+      "password": "Upin",
+      "coin": 99809000,
+      "lastClaim": 1788463826723,
+      "isBanned": false,
+      "isVip": false,
+      "misiSelesai": false,
+      "joined": true
+    },
+    "8384423446": {
+      "coin": 0,
+      "joined": false,
+      "refCount": 0,
+      "lastClaim": 0,
+      "isBanned": false,
+      "isVip": false,
+      "misiSelesai": false
+    },
+    "8983865740": {
+      "registered": true,
+      "nama": "ramzy",
+      "password": "ramzy",
+      "coin": 2000,
+      "joined": true,
+      "lastClaim": 0,
+      "isBanned": false,
+      "isVip": false,
+      "misiSelesai": false
+    },
+    "7595843954": {
+      "registered": true,
+      "nama": "Vanzzs",
+      "password": "122",
+      "coin": 99602000,
+      "joined": true
+    }
+  },
+  "scripts": [
+    {
+      "name": "BASE_V_TELE.zip",
+      "fileId": "BQACAgUAAxkBAAMhapm5cNAERTkgabviXZrQL6dNqtwAAuQfAAKR7YlXTGbT3rTCZVU9BA",
+      "price": 100000
+    },
+    {
+      "name": "SC OBF RANN STORE.zip",
+      "fileId": "BQACAgUAAxkBAAMiapm5cGN0HNXJj_owyaiQNFkWI9kAAucfAAKR7YlX8uxLDoOphSo9BA",
+      "price": 100000
+    },
+    {
+      "name": "FUNCTION BY ANGKASA 9.js",
+      "fileId": "BQACAgUAAxkBAAMjapm5cKQjLQliGkcXT2-E8xCLiKEAAugfAAKR7YlXQURioPf0Kt09BA",
+      "price": 100000
+    },
+    {
+      "name": "acrosscrash.js",
+      "fileId": "BQACAgUAAxkBAAMkapm5cIbXAAHpCkGx-lLWct4bNx-9AALpHwACke2JV7292WPFLT0ePQQ",
+      "price": 100000
+    },
+    {
+      "name": "BREAKER NEW V3 VVIP.zip",
+      "fileId": "BQACAgUAAxkBAAMlapm5cGaFKbK9-3fWVEhs10AFz-gAAusfAAKR7YlX3xlEZTSw4mc9BA",
+      "price": 100000
+    },
+    {
+      "name": "SCRIPT BOT JASEB V2.0.zip",
+      "fileId": "BQACAgUAAxkBAAMmapm5cGK-WYRDdtbOr2Hblqj5xHoAAuwfAAKR7YlXrtA1sgTOEqI9BA",
+      "price": 100000
+    },
+    {
+      "name": "ephermalCallsFC (1).js",
+      "fileId": "BQACAgUAAxkBAAMnapm5cF0bmzmUx2834zS7vwABSL_1AALuHwACke2JVwdYU-YF0U3PPQQ",
+      "price": 100000
+    },
+    {
+      "name": "PIAN BOT ORDER GIFT.zip",
+      "fileId": "BQACAgUAAxkBAAMoapm5cOuVGJOReO85_TggtDyXWCIAAusgAAL-E4FXHd6roQ3lTXo9BA",
+      "price": 100000
+    },
+    {
+      "name": "autoordernokos-pian(sale) (1).zip",
+      "fileId": "BQACAgUAAxkBAAMpapm5cFniiC8VXQABgxVxmXS2kM_jAALsIAAC_hOBV4t7hjML58a5PQQ",
+      "price": 100000
+    },
+    {
+      "name": "ꜱᴄʀɪᴘᴛ ᴅᴅᴏꜱ ᴄ2 ʟ7ʟ4 ɢᴀᴄᴏʀ (1).zip",
+      "fileId": "BQACAgUAAxkBAAMqapm5cKtkYpet-wZE4dvpIIqANEYAAu0gAAL-E4FXods0uYJtJhw9BA",
+      "price": 100000
+    },
+    {
+      "name": "AliceMD V25.zip",
+      "fileId": "BQACAgUAAxkBAAMrapm5cCoqCiyg50VOFg_WZ2x60QkAAu4gAAL-E4FXBZ8MxaTOSkc9BA",
+      "price": 100000
+    },
+    {
+      "name": "Script_Dodos_VLS (1).zip",
+      "fileId": "BQACAgUAAxkBAAMsapm5cMlyToNe_W_0UqsblefT9FgAAu8gAAL-E4FX-tQo52QvT0E9BA",
+      "price": 100000
+    },
+    {
+      "name": "NAERIV6_BACKUP.zip",
+      "fileId": "BQACAgUAAxkBAAMtapm5cCcQ9a_9vxDvFdeJdS6iHh0AAvAgAAL-E4FXvkz27KMPli49BA",
+      "price": 100000
+    },
+    {
+      "name": "SOURCE CODE CPANEL ( PROJECT ).zip",
+      "fileId": "BQACAgUAAxkBAAMuapm5cHWfua6FzswbbfED-2G4zxAAAvEgAAL-E4FXFVTlo9Cx8wk9BA",
+      "price": 100000
+    },
+    {
+      "name": "SCRIPT MD.zip",
+      "fileId": "BQACAgUAAxkBAAMvapm5cKFcKHwk6EqvBY8XPasLrhsAAvIgAAL-E4FXIvY7pSHD_bc9BA",
+      "price": 100000
+    },
+    {
+      "name": "SCRIPT_PAYMENT.zip",
+      "fileId": "BQACAgUAAxkBAAMwapm5cITE3BrcTJ0uGttVtYn8EBQAAvMgAAL-E4FXnjixFjFn9_Y9BA",
+      "price": 100000
+    },
+    {
+      "name": "script monitor VVIP.zip",
+      "fileId": "BQACAgUAAxkBAAMxapm5cDQlIBCDzXnCyv2HPFfEjhcAAvUgAAL-E4FXVy3G2BkQd449BA",
+      "price": 100000
+    },
+    {
+      "name": "SCRIPT GACHA NOKOS WA ( TELEGRAM ).zip",
+      "fileId": "BQACAgUAAxkBAAMyapm5cCj7F8lvwbL-YLF-qYJNNqsAAvQgAAL-E4FXTVcCm82MhWg9BA",
+      "price": 100000
+    },
+    {
+      "name": "SCGACHAV2 [BUYER] (1).zip",
+      "fileId": "BQACAgUAAxkBAAMzapm5cEnWvcLxPjHWTaulZ748rKEAAvYgAAL-E4FXcuHMlfXrVfo9BA",
+      "price": 100000
+    },
+    {
+      "name": "autoordernokos-pian(sale).zip",
+      "fileId": "BQACAgUAAxkBAAM0apm5cNaLujc-M_Oodko0B1ZKlBYAAvcgAAL-E4FXG5naqJfSMG09BA",
+      "price": 100000
+    },
+    {
+      "name": "SC_AUTO_ORDER_NOKTEL_1779497826574.zip",
+      "fileId": "BQACAgUAAxkBAAM1apm5cCty-qbM6MXm5d02Az30NBcAAvggAAL-E4FXnfR2tiuGptw9BA",
+      "price": 100000
+    },
+    {
+      "name": "@AWormGPT_GeminiV2.zip",
+      "fileId": "BQACAgUAAxkBAAM2apm5cEnTTDQrOAId-8NHJUEpLAkAAvkgAAL-E4FXVDbZqpngDGM9BA",
+      "price": 100000
+    },
+    {
+      "name": "ANNAYAMADA-MD TERBARU DENGAN FITUR 2000+.zip",
+      "fileId": "BQACAgUAAxkBAAM3apm5cC-2cK_jrHZl4wMPUsx0XHkAAvogAAL-E4FXx7HCHuPLovg9BA",
+      "price": 100000
+    },
+    {
+      "name": "SCRIPT OTAXX V 32.zip",
+      "fileId": "BQACAgUAAxkBAAM4apm5cFvjfeYEfODA9jGJnGpJ1W8AAvsgAAL-E4FX7lYwMitoms89BA",
+      "price": 100000
+    },
+    {
+      "name": "BOT NOKOS FAST QOUPAY V1 (1).zip",
+      "fileId": "BQACAgUAAxkBAAM5apm5cPfcQB-q2xgXLf0e02GdWAgAAvwgAAL-E4FXqGprTtShPRA9BA",
+      "price": 100000
+    },
+    {
+      "name": "SC BYPAS VIA TELEGRAM.zip",
+      "fileId": "BQACAgUAAxkBAAM6apm5cG-33jDNJJV4tdyf2c48If0AAv0gAAL-E4FXtjbmYXtD3Kc9BA",
+      "price": 100000
+    },
+    {
+      "name": "SCRIPT CPANEL RAPZY.zip",
+      "fileId": "BQACAgUAAxkBAAM7apm5cFZy_D_m_WbQ7V9HG1igltIAAv4gAAL-E4FXmqr-4hCalcs9BA",
+      "price": 100000
+    },
+    {
+      "name": "SCRIPT CPANEL RAPZY (1).zip",
+      "fileId": "BQACAgUAAxkBAAM8apm5cE6eLxbtxlf0DSEAASazU_-mAAL_IAAC_hOBV1XjfzjtX4yJPQQ",
+      "price": 100000
+    },
+    {
+      "name": "C VPS(1) (1).zip",
+      "fileId": "BQACAgUAAxkBAAM9apm5cFFmG_qp6OSQEho6qenQCoIAAyEAAv4TgVeTlSFxcVBtjD0E",
+      "price": 100000
+    },
+    {
+      "name": "BOT DDOS VIA TELE.zip",
+      "fileId": "BQACAgUAAxkBAAM-apm5cL8kLATF0YsWeuUWBJoExwgAAgEhAAL-E4FX2Hl1oUgh93k9BA",
+      "price": 100000
+    },
+    {
+      "name": "api_Tr4sLigth2.zip",
+      "fileId": "BQACAgUAAxkBAAM_apm5cPNPdZwN35MY_8Ag7gNl-MMAAgIhAAL-E4FX1OmmC7ik3oY9BA",
+      "price": 100000
+    },
+    {
+      "name": "Userbot Free.zip",
+      "fileId": "BQACAgUAAxkBAANAapm5cDf5joZYnBWhGuZx9JMQyvYAAgMhAAL-E4FX6NM7HQ2srsM9BA",
+      "price": 100000
+    },
+    {
+      "name": "SC FULL KHUSUS INSTALL PANEL BY REZZ-OFFC.zip",
+      "fileId": "BQACAgUAAxkBAANBapm5cINQ_Gjv4_nx6bBazW5_yPoAAgQhAAL-E4FX8aIK5wnrDwM9BA",
+      "price": 100000
+    },
+    {
+      "name": "BOT RASUK VIA TELE.zip",
+      "fileId": "BQACAgUAAxkBAANCapm5cOT6FYZvt1SHjuApMM3UqyYAAgUhAAL-E4FXSw5vs2uFp_E9BA",
+      "price": 100000
+    },
+    {
+      "name": "FIX MERAH X BILL.zip",
+      "fileId": "BQACAgUAAxkBAANDapm5cHkPZkydLKYReUcRKuZDIawAAgYhAAL-E4FX5Yn4hMixrmg9BA",
+      "price": 100000
+    },
+    {
+      "name": "SCRIPT JAGA GRUB NEW UPDATE FREE.zip",
+      "fileId": "BQACAgUAAxkBAANEapm5cEhQEw-KrNZaoz_ICt06-IMAAgchAAL-E4FX8xlrS-517tM9BA",
+      "price": 100000
+    },
+    {
+      "name": "SC FIX MERAH.zip",
+      "fileId": "BQACAgUAAxkBAANFapm5cBXtGcVX905ivQ2yclqDsukAAgghAAL-E4FXuIx-E55Cvok9BA",
+      "price": 100000
+    },
+    {
+      "name": "BOT ADD DB TELEGRAM ( BY IZII ).zip",
+      "fileId": "BQACAgUAAxkBAANGapm5grlOeJJ-hk4RNWYVN7Xke1UAAlYkAAK31mBWsHZf2cTLU-89BA",
+      "price": 100000
+    },
+    {
+      "name": "𝐇𝐎𝐋𝐃𝐘_𝐕𝟗_𝐍𝐄𝐖_𝐁𝐔𝐘𝐄𝐑_.zip",
+      "fileId": "BQACAgUAAxkBAANHapm5gg4ttOeky5CJBKpkKQnCNFoAAlckAAK31mBWK1YZgRcNNQQ9BA",
+      "price": 100000
+    },
+    {
+      "name": "delay apk.js",
+      "fileId": "BQACAgUAAxkBAANIapm5gorcgmTt38I7N_pbxriiZPcAAlgkAAK31mBWjaXmpkhg7o09BA",
+      "price": 100000
+    },
+    {
+      "name": "Bapaknya Suka Rename.js",
+      "fileId": "BQACAgUAAxkBAANJapm5gtq2VNHyDp-nktUZ9V5_LjIAAlkkAAK31mBWgmjIGR0Czxg9BA",
+      "price": 100000
+    },
+    {
+      "name": "Jasher X Deploy.zip",
+      "fileId": "BQACAgUAAxkBAANKapm5gh43GMxzUx9CJe0t9X7zzCAAAlokAAK31mBWsrGpTV_0qDo9BA",
+      "price": 100000
+    },
+    {
+      "name": "FLIXCE STROM V2 [ NO ENC ].zip",
+      "fileId": "BQACAgUAAxkBAANLapm5glEAAb0HPnlbA1fHAXOoIl6cAAJbJAACt9ZgVlpgROPuPhm7PQQ",
+      "price": 100000
+    },
+    {
+      "name": "JustinV17 Vip Fix All.zip",
+      "fileId": "BQACAgUAAxkBAANMapm5gjF_it3LIFq_EJHi8cjbVsMAAlwkAAK31mBWPXJa6STmBGs9BA",
+      "price": 100000
+    },
+    {
+      "name": "TAURUS V2 NO ENC.zip",
+      "fileId": "BQACAgUAAxkBAANNapm5gtnRzFEFG2JVaRhijLDUNTAAAl0kAAK31mBWtjszs8aHolk9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE CIKIDAW V10 (1).zip",
+      "fileId": "BQACAgUAAxkBAANOapm5gsziIPPwaChZ1OLfCFGNbMAAAl4kAAK31mBWK53h0yqhXkA9BA",
+      "price": 100000
+    },
+    {
+      "name": "JUSTIN V17 GEN2 VIP.zip",
+      "fileId": "BQACAgUAAxkBAANPapm5gs5IvcdDOgOewLQSyHSIDYQAAl8kAAK31mBWln7nKnFqW3w9BA",
+      "price": 100000
+    },
+    {
+      "name": "sc store buyer.zip",
+      "fileId": "BQACAgUAAxkBAANQapm5goRt-Hez03XdTdWgAAE0Abz_AAI7IwACszCBVwJG6M7JUvsKPQQ",
+      "price": 100000
+    },
+    {
+      "name": "SC JASHER 𝚅𝟸.𝟶.zip",
+      "fileId": "BQACAgUAAxkBAANRapm5ghaUx4dTXPhF0EdNGToHapwAAhQlAALrhgFWx8TPfIi8oso9BA",
+      "price": 100000
+    },
+    {
+      "name": "FUNCTION BY ANGKASA 1.js",
+      "fileId": "BQACAgUAAxkBAANSapm5gnz3H6VJlIRaOdYf7hDUAYgAArQfAAKR7YlXIuIMusEg84I9BA",
+      "price": 100000
+    },
+    {
+      "name": "Cpanel Telegram.zip",
+      "fileId": "BQACAgUAAxkBAANTapm5gmgWyAmSwlt7iThqj-nG8FoAArUfAAKR7YlXZwKRKJ4YZhY9BA",
+      "price": 100000
+    },
+    {
+      "name": "BaseXillent.zip",
+      "fileId": "BQACAgUAAxkBAANUapm5gnYQj_1wMDXCmzdHMmosnlIAArcfAAKR7YlXIflOaNny_B49BA",
+      "price": 100000
+    },
+    {
+      "name": "RannTzy.zip",
+      "fileId": "BQACAgUAAxkBAANVapm5gqzVhsUv5bDzvkGxXs7up40AAr4fAAKR7YlXMjz_QsmE_ww9BA",
+      "price": 100000
+    },
+    {
+      "name": "Script_Jasher_X_Deploy.zip",
+      "fileId": "BQACAgUAAxkBAANWapm5glgHVCeIuSpazpe-F8c5Ld8AAr8fAAKR7YlXcuzkJ9hkHl49BA",
+      "price": 100000
+    },
+    {
+      "name": "AUTO MONITORING BOT.zip",
+      "fileId": "BQACAgUAAxkBAANXapm5glUNTjaxFoW4Uz52PbkQmlsAAsAfAAKR7YlXSbl3pd31oZI9BA",
+      "price": 100000
+    },
+    {
+      "name": "Project Web Voltage.zip",
+      "fileId": "BQACAgUAAxkBAANYapm5gojJyYCgtMlndu2XPmAIAeMAAsEfAAKR7YlXpIKXZAGfSnY9BA",
+      "price": 100000
+    },
+    {
+      "name": "CrashHomeeJing.js",
+      "fileId": "BQACAgUAAxkBAANZapm5gu2I0TD3hGQ5SdVHcr0rAQMAAsIfAAKR7YlXGXG6jnVcez49BA",
+      "price": 100000
+    },
+    {
+      "name": "DEWA INVICTUS 2.7 FIX.zip",
+      "fileId": "BQACAgUAAxkBAANaapm5gvnInygpEG7rUod-POv2es4AAsMfAAKR7YlXvjcTTDl9dh89BA",
+      "price": 100000
+    },
+    {
+      "name": "@iwawv1 project rasuk.zip",
+      "fileId": "BQACAgUAAxkBAANbapm5gp3_dBDczX-3m5raNHkCPDgAAsQfAAKR7YlX0X2I9i0VzkM9BA",
+      "price": 100000
+    },
+    {
+      "name": "xx-00-25 coin.zip",
+      "fileId": "BQACAgUAAxkBAANcapm5gl01YN2uGGRT4HWEp6COPJIAAsUfAAKR7YlXfEdS2UndiWY9BA",
+      "price": 100000
+    },
+    {
+      "name": "SC BOT COIN FULL BUTTON.zip",
+      "fileId": "BQACAgUAAxkBAANdapm5gjAzeG-gsVwK884mkPh0B_oAAscfAAKR7YlX8SNsdBgbDKU9BA",
+      "price": 100000
+    },
+    {
+      "name": "Script_Dodos_VLS.zip",
+      "fileId": "BQACAgUAAxkBAAOLapm-0wWWcVJF44m-A00jEDlwYS4AAuAoAAJEnclX5d7gdYE4BjI9BA",
+      "price": 100000
+    },
+    {
+      "name": "UBOT-V1.7(1).zip",
+      "fileId": "BQACAgUAAxkBAAOMapm-0y1nhsO4KjbiNLl2---OeN4AAgkdAAJnp8lXyBOfXsXX2NE9BA",
+      "price": 100000
+    },
+    {
+      "name": "Script userbot via panel (1).zip",
+      "fileId": "BQACAgUAAxkBAAONapm-08j1oOQzLbMrE9uqYCZWhRYAAhYaAAK_hBhXaxSLXLQO7Ag9BA",
+      "price": 100000
+    },
+    {
+      "name": "ddos-main.zip",
+      "fileId": "BQACAgUAAxkBAAOOapm-03WIv26xKjoI15fd2LCZjnoAAhsbAAI9WsFVakhc1rTuDMU9BA",
+      "price": 100000
+    },
+    {
+      "name": "DDOS V3.zip",
+      "fileId": "BQACAgUAAxkBAAOPapm-0_MD23fY-ygImvLWfvfEEucAAhwbAAI9WsFVpc9PoQABzaM-PQQ",
+      "price": 100000
+    },
+    {
+      "name": "ddosvizz.zip",
+      "fileId": "BQACAgUAAxkBAAOQapm-01RjC0sxCM1rCEvKkda1oVsAAlEWAAJqnMFVzSqGh5hrYEQ9BA",
+      "price": 100000
+    },
+    {
+      "name": "BOT RASUK VIA TELE.zip",
+      "fileId": "BQACAgUAAxkBAAORapm-07piRzj3OeW3XiAzpaObUgIAAg8bAAI9WsFVzVrYantMBUA9BA",
+      "price": 100000
+    },
+    {
+      "name": "Bot-DDos-telegram-main.zip",
+      "fileId": "BQACAgUAAxkBAAOSapm-0ySP2Nhh-Dr9ajZ2KBLgdH0AAhEbAAI9WsFVhEvASCzqAkI9BA",
+      "price": 100000
+    },
+    {
+      "name": "DDOS 4 BY ZAMM.zip",
+      "fileId": "BQACAgUAAxkBAAOTapm-092QYrEEeAVP2gGUzdrCS4gAAhkbAAI9WsFVRMdt-l4p7QY9BA",
+      "price": 100000
+    },
+    {
+      "name": "DDOS GACOR BY MDW .zip",
+      "fileId": "BQACAgUAAxkBAAOUapm-06ez6XGvd-LnirR8KKjZhDoAAhobAAI9WsFVKvEFU_XiEiU9BA",
+      "price": 100000
+    },
+    {
+      "name": "DdosPanelV1.zip",
+      "fileId": "BQACAgUAAxkBAAOVapm-00HYxRyDiy9g7yKSAAHEFTg9AAKsGgACCDWgVy4zk1nI2jMZPQQ",
+      "price": 100000
+    },
+    {
+      "name": "DDoS VIA TELE.zip",
+      "fileId": "BQACAgUAAxkBAAOWapm-01HTaoPLQNfkojNUEFuT6PIAAq0aAAIINaBXOu4-EwOQqvA9BA",
+      "price": 100000
+    },
+    {
+      "name": "FIX - MERAH.zip",
+      "fileId": "BQACAgUAAxkBAAOXapm-05dy4E2yv2Q7cLrtLvxlUq4AArAcAAJ-w6FX-053muNgBFk9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE APK BUG DEWA.zip",
+      "fileId": "BQACAgUAAxkBAAOYapm-0yOJNr6pIGsZ-s0qlZ2VzxIAAvwaAAI9WsFVAAEsKY-b0XhBPQQ",
+      "price": 100000
+    },
+    {
+      "name": "BASE APK BUG RED VILLAIN.zip",
+      "fileId": "BQACAgUAAxkBAAOZapm-06LT5nslqjqBFe2UUlLNMu4AAv0aAAI9WsFVSH4wsbR6wxM9BA",
+      "price": 100000
+    },
+    {
+      "name": "Base Web Bug Overload.zip",
+      "fileId": "BQACAgUAAxkBAAOaapm-0xgu97FbjfO_lZVetwUFIpIAAv4aAAI9WsFV0YH6_wwKXog9BA",
+      "price": 100000
+    },
+    {
+      "name": "fixed base apk.zip",
+      "fileId": "BQACAgUAAxkBAAObapm-00NHWI5khQ-3Q5PSr7EtedsAAv8aAAI9WsFVxL9IN2dQkvA9BA",
+      "price": 100000
+    },
+    {
+      "name": "Night Lotush.zip",
+      "fileId": "BQACAgUAAxkBAAOcapm-09g7Yfo-nynB8ezsoOQ0tCUAAxsAAj1awVVn6r8dge7QVT0E",
+      "price": 100000
+    },
+    {
+      "name": "Sc Create Api.zip",
+      "fileId": "BQACAgUAAxkBAAOdapm-026oOXEdpl26wm50wXbB9cQAAgEbAAI9WsFV3CAwuRO4cV89BA",
+      "price": 100000
+    },
+    {
+      "name": "Web Bug [ Multi Sender ].zip",
+      "fileId": "BQACAgUAAxkBAAOeapm-0yLTwO_i8PM0fKWVZEFJvRYAAgIbAAI9WsFVoT3fTGf1aMo9BA",
+      "price": 100000
+    },
+    {
+      "name": "Web Bug.zip",
+      "fileId": "BQACAgUAAxkBAAOfapm-05Tx88PGKZt39bft54e3kDEAAgMbAAI9WsFVcx85uxIhwAE9BA",
+      "price": 100000
+    },
+    {
+      "name": "Base apk trasher.zip.bak",
+      "fileId": "BQACAgUAAxkBAAOgapm-04URU41M6DyI2PBsU5ACP9YAAkwXAAJOz7BVUDrYLz9OeB49BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE ONE PIACE [ VIA WA].zip",
+      "fileId": "BQACAgUAAxkBAAOhapm-0-bqU5GH7wbDK91Z5rv_qJUAAiIbAAI9WsFVA2v77nP4Dxs9BA",
+      "price": 100000
+    },
+    {
+      "name": "base paketan.zip",
+      "fileId": "BQACAgUAAxkBAAOiapm-04QvjcyQ4mTx0CLSYzp6Rj4AAk0XAAJOz7BVpUyJuCWB4lc9BA",
+      "price": 100000
+    },
+    {
+      "name": "Base Rdvsp.zip",
+      "fileId": "BQACAgUAAxkBAAOjapm-08WhgW0Enjim_Pg7BHW8RO0AAisbAAI9WsFVD0auZqXEbk49BA",
+      "price": 100000
+    },
+    {
+      "name": "base sc flow infinity.zip",
+      "fileId": "BQACAgUAAxkBAAOkapm-01gPIirYx_Cyih0bwSX3RfYAAlAXAAJOz7BVvxtnj-DVcYc9BA",
+      "price": 100000
+    },
+    {
+      "name": "base sc flow infinity.zip.bak",
+      "fileId": "BQACAgUAAxkBAAOlapm-08ifjVdO_Xgi_3FlRFjFZnYAAi0bAAI9WsFVGlhLtFS295o9BA",
+      "price": 100000
+    },
+    {
+      "name": "Base Toxic Galaxy.zip",
+      "fileId": "BQACAgUAAxkBAAOmapm-0wQaLJKlXzGk5_hUn2RlzIUAAjAbAAI9WsFVxIo-j3scqDc9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE WEB BUG.zip",
+      "fileId": "BQACAgUAAxkBAAOnapm-0-WuZkLpo7OfR5cPNNnx2EMAAikbAAI9WsFVAkKHHsWV3kw9BA",
+      "price": 100000
+    },
+    {
+      "name": "Base Web Bug Spartan.zip",
+      "fileId": "BQACAgUAAxkBAAOoapm-05huz95i3hjUROCSoV_HLsEAAi4bAAI9WsFVYuPEfkaVEQ89BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE WEB XILENT.zip",
+      "fileId": "BQACAgUAAxkBAAOpapm-0xLGtsXVYPbWeV0_uIZkR9cAAjIbAAI9WsFVwkJYDPxA4No9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE WEB DEWA INVICTUS 1.0 VIP.zip",
+      "fileId": "BQACAgUAAxkBAAOqapm-0yDNyVgWop6-n5l0Hfmjcr4AAjUbAAI9WsFV_E1br-ioTzs9BA",
+      "price": 100000
+    },
+    {
+      "name": "Base X IZEET New Version Via Telegram.zip",
+      "fileId": "BQACAgUAAxkBAAOrapm-00BkBFOLZQo-82u0lry9AhUAAjgbAAI9WsFVSDEcOXm4Zho9BA",
+      "price": 100000
+    },
+    {
+      "name": "Base Zeno.zip",
+      "fileId": "BQACAgUAAxkBAAOsapm-03mROsR2n-gnHzdObYMz848AAkAbAAI9WsFVHpMkHv-pfmM9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE_2.0.0.zip",
+      "fileId": "BQACAgUAAxkBAAOtapm-08_EvdtvhqEXG9oCcX6kCHAAAkIbAAI9WsFVcyjkIkeuwFY9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE_APK_BUG.zip",
+      "fileId": "BQACAgUAAxkBAAOuapm-0xw83MavxmgLf5RxzaM-PacAAiQbAAI9WsFVNvNQ271NgBE9BA",
+      "price": 100000
+    },
+    {
+      "name": "Base_Bug_Tele.zip",
+      "fileId": "BQACAgUAAxkBAAOvapm-02N7jtoNMwE1AXbDDBDacA4AAiobAAI9WsFVXJ7bTEv9AWo9BA",
+      "price": 100000
+    },
+    {
+      "name": "Base_Cikidaw_V10.zip",
+      "fileId": "BQACAgUAAxkBAAOwapm-0zVJ2PVig44R08_6E4mHa1AAAi8bAAI9WsFVsYgFTLFfsI89BA",
+      "price": 100000
+    },
+    {
+      "name": "Base_Nted_Crasher.zip",
+      "fileId": "BQACAgUAAxkBAAOxapm-050rqCrplNmcyEaau3F6bhMAAjQbAAI9WsFVOQs7pbK0R_M9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE_OTAX.zip",
+      "fileId": "BQACAgUAAxkBAAOyapm-05gpbWz0pf5MBVmZbKHLXiYAAjcbAAI9WsFVMtFkUYYckao9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE_RDVSP_V4.zip",
+      "fileId": "BQACAgUAAxkBAAOzapm-02J44OuxPhkqcL-pS1O9DPUAAjsbAAI9WsFVaEWGG_EUz_I9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE_V_TELE.zip",
+      "fileId": "BQACAgUAAxkBAAO0apm-06SOXS-1-aj9SxcJ_QsZQkMAAj0bAAI9WsFVKt6JGKHfs3c9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE_𝐆𝐞𝐭𝐒𝐮𝐙𝐨_𝙄𝙉𝙁𝙄𝙉𝙄𝙏𝙔.zip",
+      "fileId": "BQACAgUAAxkBAAO1apm-03b_OJRjxoShTMNO3kmdamMAAkEbAAI9WsFV6NonubtSKmk9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASEDEPLOYBYVINXZOFFICIAL.zip",
+      "fileId": "BQACAgUAAxkBAAO2apm-035lIcXVvd8nOdKdiXUxrcIAAkMbAAI9WsFV6nehkVHHKnY9BA",
+      "price": 100000
+    },
+    {
+      "name": "BEAS SC BUG BY AXCAL OFFICIAL.zip",
+      "fileId": "BQACAgUAAxkBAAO3apm-0yP6o6DM6GODsbMjG8eU0hcAAkQbAAI9WsFVfUtoAZ2DNk09BA",
+      "price": 100000
+    },
+    {
+      "name": "Vaeltrix V1.0 ( Enc Tele ).zip",
+      "fileId": "BQACAgUAAxkBAAO4apm-0-IAAdxvDyNaNZRrPYaTSlJ8AAI9GAACpLIRV13in5CenFQ-PQQ",
+      "price": 100000
+    },
+    {
+      "name": "Buyer VVIP NO SHERE FREE LU JUGA RUGI TLL.zip",
+      "fileId": "BQACAgUAAxkBAAO5apm-09U03KBoRKWToSN3aypAEBEAAvIWAAJAGcBWj0wdKzp8CHg9BA",
+      "price": 100000
+    },
+    {
+      "name": "RafatarCode V5.zip",
+      "fileId": "BQACAgUAAxkBAAO6apm-00sROvWkJuhRjDXvms3r1QADqiYAAhiM0VZh4wuJQCPuvD0E",
+      "price": 100000
+    },
+    {
+      "name": "Agler Forger GEN 8 no enc.zip",
+      "fileId": "BQACAgUAAxkBAAO7apm-09TDTkjg4PVoL21-Rfs_bDkAAtIcAAIhpOhWw9bu2jiZ0Zc9BA",
+      "price": 100000
+    },
+    {
+      "name": "𝖷7-𝖫𝗈𝗅𝗂𝗉𝗈𝗉.zip",
+      "fileId": "BQACAgUAAxkBAAO8apm-0-_XoyNehApv7VbQW9BLCHoAArsdAAJWzSBX0uKn_LdAGOk9BA",
+      "price": 100000
+    },
+    {
+      "name": "𝗕𝗔𝗦𝗘 𝗧𝗔𝗡𝗝𝗜𝗥𝗢 (1).zip",
+      "fileId": "BQACAgUAAxkBAAO9apm-0-X2bJtbY8_1gMzJ8OeJTeQAAv0TAAJOGglWHPcp1AS6k7k9BA",
+      "price": 100000
+    },
+    {
+      "name": "BEAS SC BUG BY AXCAL OFFICIAL (1).zip",
+      "fileId": "BQACAgUAAxkBAAO-apm-0yRHktMlNsbkGJRaCkrwMG8AAgQUAAJOGglWT2jPBw1G5T09BA",
+      "price": 100000
+    },
+    {
+      "name": "BaseNoEncWorking.zip",
+      "fileId": "BQACAgUAAxkBAAO_apm-0yjuG80OXzuOQKLk07dmKG0AAj8YAAJOGgFWi0EG0yBNzrA9BA",
+      "price": 100000
+    },
+    {
+      "name": "Base Indictive 𝐈𝐕 (no enc).zip",
+      "fileId": "BQACAgUAAxkBAAPAapm-02VwDx-_kkwtNwbViz5yB-kAAgsUAAJOGglWYwFheyMP3909BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE NEOBEST.zip",
+      "fileId": "BQACAgUAAxkBAAPBapm-0xO6Uk4pbEopdTU8Y_ULY2wAAkIYAAJOGgFWckesS0PkDFU9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE - SIMPLE - BOT.zip",
+      "fileId": "BQACAgUAAxkBAAPCapm-03qH2VD78HI03YePVulmRDUAAg0UAAJOGglWCWdSy8LgVNM9BA",
+      "price": 100000
+    },
+    {
+      "name": "base api buttonvenom.zip",
+      "fileId": "BQACAgUAAxkBAAPDapm-02EAAXZ_Rr_rp8aUcu9WOAghAAJEGAACThoBVkiRhX4vijpBPQQ",
+      "price": 100000
+    },
+    {
+      "name": "base sc villain v1.9 (1).zip",
+      "fileId": "BQACAgUAAxkBAAPEapm-088MJggDs-duc6NClbEQes8AAg4UAAJOGglWLHHiHdoGHu49BA",
+      "price": 100000
+    },
+    {
+      "name": "BpHexa!.zip",
+      "fileId": "BQACAgUAAxkBAAPFapm-03Klg4u5lUy4g0aTEdScQycAAuUVAAJCkyBWaXXRjd318-89BA",
+      "price": 100000
+    },
+    {
+      "name": "SCRIPT OBF VIA TELE.zip",
+      "fileId": "BQACAgEAAxkBAAPGapm-0xSd4CkSSc0bVOvjPetFi8UAAwcAAmwmEEZcJFUAAVe5V2c9BA",
+      "price": 100000
+    },
+    {
+      "name": "JustinV21 NO ENC.zip",
+      "fileId": "BQACAgUAAxkBAAPHapm-00BkLj4t6yiIFe5LmxZPnwcAAsMdAAL9STBWnm0CH7ayAxE9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE X FUNC PRIVATE Zall .zip",
+      "fileId": "BQACAgUAAxkBAAPIapm-031oed5fMPqGFql6X5x2nRwAAisYAAL3IWhUIOGs7HU7wKA9BA",
+      "price": 100000
+    },
+    {
+      "name": "Bahan base web bug+ apk.zip",
+      "fileId": "BQACAgUAAxkBAAPJapm-01Mq1tcC7QMqI8L8zYnpSNUAAisZAAI1HEhWpefVEhzKYS49BA",
+      "price": 100000
+    },
+    {
+      "name": "PT RYY ONLY.zip",
+      "fileId": "BQACAgUAAxkBAAPKapm-0-ydONNMfpD5oTQAAcF1c7HKAAJWGQACLcxQVnTIhImc896cPQQ",
+      "price": 100000
+    },
+    {
+      "name": "Base Untuk Website Atau Aplikasi Bug.zip",
+      "fileId": "BQACAgUAAxkBAAPLapm-0_RYcbPI0Bwhdup70Qy78JoAAlsZAAJmT1hWfvvXNfIHKGs9BA",
+      "price": 100000
+    },
+    {
+      "name": "𝐌𝐚𝐭𝐫𝐢𝐱°𝐐𝐮𝐞𝐫𝐲_!!_no_enc.zip",
+      "fileId": "BQACAgUAAxkBAAPMapm-01lMkBspI07YNz44EsjRJkQAAgwbAAIwPmFW-gG9CXkIlMY9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE VOID V12 (2).7z",
+      "fileId": "BQACAgUAAxkBAAPNapm-0-iEKRmI9qnREf3Q45GMcqkAAuIYAAIagMBVVc4MO5_QZG89BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE NIGHT RAID VIA DC.zip",
+      "fileId": "BQACAgUAAxkBAAPOapm-0wksAqrg0QFHYtF9Ebw9Y6oAAlkZAAKqHrFWnowbZM54qT89BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE APK BLUE KNIGHT.zip",
+      "fileId": "BQACAgUAAxkBAAPPapm-02Qh4rG1WbsAAWaZ02Z5pT3lAAJgHgACowFRVJ1M2SgSTwx6PQQ",
+      "price": 100000
+    },
+    {
+      "name": "BASE_YANDERE_ENGINE.zip",
+      "fileId": "BQACAgUAAxkBAAPQapm-0wNeZUCF6CLLDQdoVv1QzoQAAuAZAAJrgjFVejnYeaG2NTo9BA",
+      "price": 100000
+    },
+    {
+      "name": "Miyako_V6_(1).zip",
+      "fileId": "BQACAgUAAxkBAAPRapm-00N0IoFJ-WalCvUCUt5BmxEAAvcXAAKUbglVh1Wzw5Gw5aY9BA",
+      "price": 100000
+    },
+    {
+      "name": "WEB PAYMENT V2 BY SANN404.7z",
+      "fileId": "BQACAgUAAxkBAAPSapm-0wp9IN9MRc9bysxU7cmPRCoAAtwZAAJrgjFVfxHT9lgIsNc9BA",
+      "price": 100000
+    },
+    {
+      "name": "3 potensi.js",
+      "fileId": "BQACAgUAAxkBAAPTapm-00o4mnSNSzXTBpyaoM5tWvMAAuMZAAJrgjFVzDcG3M6Bn_I9BA",
+      "price": 100000
+    },
+    {
+      "name": "FC-INVIS-CHANNEL-ANDRO14+ (1).js",
+      "fileId": "BQACAgUAAxkBAAPUapm-0zXvTKMmcc50rAVQgCuebqMAAtIeAAK69dhUeO3JDrTOIHA9BA",
+      "price": 100000
+    },
+    {
+      "name": "VTX - DelayInvisble.js",
+      "fileId": "BQACAgUAAxkBAAPVapm-0352Qx29bnFeLECDkNXIEpsAAuYZAAJrgjFVRA2PyfMRHtY9BA",
+      "price": 100000
+    },
+    {
+      "name": "invis.js",
+      "fileId": "BQACAgUAAxkBAAPWapm-0-r8kDwGYWRJ5WYoQ_4eatUAAhMfAAIxasFUgGwVCaU65s09BA",
+      "price": 100000
+    },
+    {
+      "name": "DelayInvis.js",
+      "fileId": "BQACAgUAAxkBAAPXapm-00hFaqgVNW1iSGq42yZmxOcAAukZAAJrgjFV38tBu9bKwpg9BA",
+      "price": 100000
+    },
+    {
+      "name": "DelayUi(1).js",
+      "fileId": "BQACAgUAAxkBAAPYapm-01mKjKMjMn0Q_xoM5JPrYu0AAkkeAAIxasFUwYSQDfUG0IU9BA",
+      "price": 100000
+    },
+    {
+      "name": "invisibleFc.js",
+      "fileId": "BQACAgUAAxkBAAPZapm-06FGuKTu-YOiQ_BBBjBGAVYAAkIcAAJEKcFUK04qP9AgJbg9BA",
+      "price": 100000
+    },
+    {
+      "name": "frezeChat.js",
+      "fileId": "BQACAgUAAxkBAAPaapm-0wYdY8leE5GLXf1w-9aFieMAAuEZAAJrgjFVVnUuZbhovTM9BA",
+      "price": 100000
+    },
+    {
+      "name": "RajaDelayV1.js",
+      "fileId": "BQACAgUAAxkBAAPbapm-0-OtlHS-y_D5H0W0BgjQn-YAAgMYAAKUbglVxA7QIeL8g_89BA",
+      "price": 100000
+    },
+    {
+      "name": "1762724659857_PhisingCodeNew.html",
+      "fileId": "BQACAgUAAxkBAAPcapm-0yU-fJDSjVuL-O3y0edclEQAAt0ZAAJrgjFVJYxF6z8vnc89BA",
+      "price": 100000
+    },
+    {
+      "name": "Forceclose_Click.js",
+      "fileId": "BQACAgUAAxkBAAPdapm-0_ePrbEiFRDlCB-rZhGe1NAAAjsaAAKyMsBUawrR7sUwhqU9BA",
+      "price": 100000
+    },
+    {
+      "name": "Invisible(1).js",
+      "fileId": "BQACAgUAAxkBAAPeapm-09ncyrRIvyHHa-jP9n2HATgAAucZAAJrgjFVYvf2T02OY6c9BA",
+      "price": 100000
+    },
+    {
+      "name": "drain Kuota.js",
+      "fileId": "BQACAgUAAxkBAAPfapm-0-eoLWJvwy79liFBRGUqg-4AAlkeAAKjAVFUrtW_L0z1c7U9BA",
+      "price": 100000
+    },
+    {
+      "name": "Function Bug Gwe.js",
+      "fileId": "BQACAgUAAxkBAAPgapm-0_iQWkIu3CzzIrP8VyNEzE4AAusZAAJrgjFVz1rK3F3y59Y9BA",
+      "price": 100000
+    },
+    {
+      "name": "Invisible.js",
+      "fileId": "BQACAgUAAxkBAAPhapm-0zPkeYo9ZKE9j9vOpPz9JjUAAv4XAAKUbglV-wLXLqg_MO09BA",
+      "price": 100000
+    },
+    {
+      "name": "DelayUi.js",
+      "fileId": "BQACAgUAAxkBAAPiapm-0zd588vLGhHhTIELgjDb2-4AAj8cAAJEKcFUXvsquzkUqag9BA",
+      "price": 100000
+    },
+    {
+      "name": "Faiq - Blank Hard.js",
+      "fileId": "BQACAgUAAxkBAAPjapm-04FJKAABATGMlGBymL8lvOHfAALiGQACa4IxVaThY0ILsXu5PQQ",
+      "price": 100000
+    },
+    {
+      "name": "FUNCDELAYHANZX.js",
+      "fileId": "BQACAgUAAxkBAAPkapm-01kVcwMu_QFPOYYcF5gOH3YAAgIYAAKUbglV99f4WVn2MjU9BA",
+      "price": 100000
+    },
+    {
+      "name": "BlankXFrezeGrup.js",
+      "fileId": "BQACAgUAAxkBAAPlapm-0yhpo1ABOTVo5LO6xL7mMPEAAuUZAAJrgjFV7d1_pCpQ4xI9BA",
+      "price": 100000
+    },
+    {
+      "name": "FrezeVidey.js",
+      "fileId": "BQACAgUAAxkBAAPmapm-05jteZJ8CYRR_Qt9n6l9kXgAAtMkAAJwI5hU7x_EKMsCEOM9BA",
+      "price": 100000
+    },
+    {
+      "name": "ForceDeleteNotworkBeta.js",
+      "fileId": "BQACAgUAAxkBAAPnapm-04CDhA9g2WE6QPhHgKmj5cEAAugZAAJrgjFVCrzGToT7FVA9BA",
+      "price": 100000
+    },
+    {
+      "name": "functionFcXDelay.js",
+      "fileId": "BQACAgUAAxkBAAPoapm-0zNer9Q90EQPpnzkOy0B1JUAAuAdAALgIHlUEcfyVEQP4nM9BA",
+      "price": 100000
+    },
+    {
+      "name": "KuotaHardXDelaySql.js",
+      "fileId": "BQACAgUAAxkBAAPpapm-02-8wvt05xoWxUA6WvlKiMEAAuoZAAJrgjFVFpQigpL27CE9BA",
+      "price": 100000
+    },
+    {
+      "name": "EfcihBeta(5).js",
+      "fileId": "BQACAgUAAxkBAAPqapm-0xUDV5NOUIqfUGJxEmPohY8AAjkaAAKyMsBUP3xJociD-B89BA",
+      "price": 100000
+    },
+    {
+      "name": "Func Paydox.js",
+      "fileId": "BQACAgUAAxkBAAPrapm-0wJx4fhcs6QSHWwsPQ5r5g4AAuwZAAJrgjFVooWGZn7UT2o9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE RAJA.zip",
+      "fileId": "BQACAgUAAxkBAAPsapm-035Dei1Z34nVyOoyzcb3_XAAAiUXAAKZBPBVDU8r7ckAAXrfPQQ",
+      "price": 100000
+    },
+    {
+      "name": "Base Hafafis 9.0.zip",
+      "fileId": "BQACAgUAAxkBAAPtapm-0-6Pu2vrgOTFZPVIAAH1o0e7AAKQFwACS5sZV_YMNmPAjQPQPQQ",
+      "price": 100000
+    },
+    {
+      "name": "SIMPLE CPANEL ENC BY KYZZ.zip",
+      "fileId": "BQACAgUAAxkBAAPuapm-0-876J9f6GQUGFSLm6yU9ksAAoEXAAJPxqlXtf9aLAxnioY9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE CIKIDAW V10.zip",
+      "fileId": "BQACAgUAAxkBAAPvapm-76m53Byqtakcz3avIFoFcDUAAmgYAAL9fohWe9g0HuQNVq89BA",
+      "price": 100000
+    },
+    {
+      "name": "SC OBF RANN STORE.zip",
+      "fileId": "BQACAgUAAxkBAAPwapm-7-x5715-hCrQeZYD4ukKcPUAAvUZAAJ_FrhVOE0p48lKHJk9BA",
+      "price": 100000
+    },
+    {
+      "name": "ALWAYS V7 G2.zip",
+      "fileId": "BQACAgUAAxkBAAPxapm-70hFkLrcRXzkrOqskR4MbgIAAqYdAALDNkBV7iND605JDSc9BA",
+      "price": 100000
+    },
+    {
+      "name": "SC ADDB.zip",
+      "fileId": "BQACAgUAAxkBAAPyapm-77b12DABlTe0jjbYZN_wC-8AAhwcAALcEThVnK6l0c1ECTc9BA",
+      "price": 100000
+    },
+    {
+      "name": "no enc .zip",
+      "fileId": "BQACAgUAAxkBAAPzapm-7xZ1yifl5OxxO-VOQa21SPwAAqUdAALDNkBVy8JutWuKb6o9BA",
+      "price": 100000
+    },
+    {
+      "name": "Narukami v1.zip",
+      "fileId": "BQACAgUAAxkBAAP0apm-76iSS9-tifRTLTQ1UW54L-wAAqwaAALdHnFXqHyre5zfBmI9BA",
+      "price": 100000
+    },
+    {
+      "name": "eyeGPT.txt",
+      "fileId": "BQACAgUAAxkBAAP1apm-740hZqQXNVEAAewn6FxyLuB3AALaGwACF9xBVV3fQK6SdBXgPQQ",
+      "price": 100000
+    },
+    {
+      "name": "USERBOT V2.zip",
+      "fileId": "BQACAgUAAxkBAAP2apm-78Pw5JyBSkXMwdKrlE3hU2kAAtwbAAIX3EFVXGe9xu9Uhw09BA",
+      "price": 100000
+    },
+    {
+      "name": "all prompt anxiety.txt",
+      "fileId": "BQACAgUAAxkBAAP3apm-71vM19MeLAvUxQva5u6ew_sAAuEbAAIX3EFV2rzQeFES80c9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE POLLING STELLA.zip",
+      "fileId": "BQACAgUAAxkBAAP4apm-7xG8TlGKiV2SIDd_OrA4SeMAAu8bAAIX3EFVThONAAHRC_lgPQQ",
+      "price": 100000
+    },
+    {
+      "name": "GACHA VIP By FahzOfficial.zip",
+      "fileId": "BQACAgUAAxkBAAP5apm-79dFznb9_z9OfdvtD1q1OQ4AAi4bAAK21yFUVhXMC3YuMzI9BA",
+      "price": 100000
+    },
+    {
+      "name": "𝗦𝗸𝘂𝗹𝗹𝘀𝗘𝗺𝗽𝗶𝗿𝗲.js",
+      "fileId": "BQACAgUAAxkBAAP6apm-70hgKzaEA18wvOdGdURGg10AAiocAAIeBoBV15ni6gWtPnY9BA",
+      "price": 100000
+    },
+    {
+      "name": "BASE OTA ANTI BYPAS AND ANTI CRACK SHARE BY @zrillofficial.zip",
+      "fileId": "BQACAgUAAxkBAAP7apm-70-qZqfrRsSHqTuBNPVu2GcAAggeAAJBBBlVTlqBuvB98-w9BA",
+      "price": 100000
+    },
+    {
+      "name": "𝔄𝔪𝔟𝔞ℭ𝔯𝔞𝔰𝔥 17 𝔉𝔯𝔢𝔢.zip",
+      "fileId": "BQACAgUAAxkBAAIBR2qZxaMf5rmUKkKzqn_s_dfVQGgNAAJTHQACem8IV8s9x5xIl0RHPQQ",
+      "price": 100000
+    },
+    {
+      "name": "BASE SIMPLE NO ENC.zip",
+      "fileId": "BQACAgUAAxkBAAIBSGqZxaOREKz2KoLgDC1hTR13np2rAAIzFQACYi6oVUA0FfkbYJxEPQQ",
+      "price": 100000
+    },
+    {
+      "name": "Script Xray Death V8.zip",
+      "fileId": "BQACAgUAAxkBAAIBSWqZxaO7Zhwa20Quq2jHNYdeqfHFAAJNHQACjS9ZVT5S_jbwCrd5PQQ",
+      "price": 100000
+    },
+    {
+      "name": "Killua Cpanel Via Tele.zip",
+      "fileId": "BQACAgUAAxkBAAIBSmqZxaNjJuGwkTDjgWLyzTel9nLrAAJXHQACem8IV7vyUa1Sq2HEPQQ",
+      "price": 100000
+    },
+    {
+      "name": "SC_OBF_LZ.zip.zip",
+      "fileId": "BQACAgUAAxkBAAIBS2qZxaPUpxjpdr9rrqA0dbFNJHB5AAJpHQACem8IV5ulCe8C_pbYPQQ",
+      "price": 100000
+    },
+    {
+      "name": "BOT LIMIT KECE ( BY IZII ).zip",
+      "fileId": "BQACAgUAAxkBAAIBTGqZxaNV81Ugrol_qgYvK2b_MTLeAAILHwACN7lAVcGQeb5Ya6d_PQQ",
+      "price": 100000
+    },
+    {
+      "name": "base VXEP INVASION V3.0 (1).zip",
+      "fileId": "BQACAgUAAxkBAAIBTWqZxaOtTrsSYoXtVKtBrRWleeu2AAJtJAAC-tiQVBh7aEZUIHBYPQQ",
+      "price": 100000
+    },
+    {
+      "name": "omni-ai-v2.zip",
+      "fileId": "BQACAgUAAxkBAAIBTmqZxaN7nYVnQYAQTzjy1TRwNaA-AAMkAAL0HXBVXUwMo_TyKf49BA",
+      "price": 100000
+    },
+    {
+      "name": "The orbix.zip",
+      "fileId": "BQACAgUAAxkBAAIBT2qZxaM03b2J9uZzlfF-gug1VBurAAKlIQACFnIZVL3gbGQtlFEMPQQ",
+      "price": 100000
+    },
+    {
+      "name": "JUSTIN V24 NO ENC [ GYZEN ].zip",
+      "fileId": "BQACAgUAAxkBAAIBUGqZxaNf-OxC3YJOpIydlAv0NPepAAJfHwACvq-pVXKddYwe-JFIPQQ",
+      "price": 100000
+    },
+    {
+      "name": "AHOOL SILENCE V15.zip",
+      "fileId": "BQACAgUAAxkBAAIBUWqZxaNt0OLOXia9x35T-G2jlorCAAKaHwACelKhVzRxMLRSf4iYPQQ",
+      "price": 100000
+    },
+    {
+      "name": "SC+STORE+PUSH+V3.zip",
+      "fileId": "BQACAgUAAxkBAAIBUmqZxaM2WihV-T4xEMhKtxPkSijQAAJFHwAC0xeJV8ifonK5nUtfPQQ",
+      "price": 100000
+    },
+    {
+      "name": "𝐍𝐄𝐗𝐔𝐒.zip",
+      "fileId": "BQACAgUAAxkBAAIBU2qZxaOl9LaylGm7i_RH5wP8KIGxAAItHgACnS5xVYLKpF3l_HRnPQQ",
+      "price": 100000
+    },
+    {
+      "name": "CRASH UI X DELAY HARD.js",
+      "fileId": "BQACAgUAAxkBAAIBVGqZxaNy7EwP3WlWDsP5-hqzj0iyAAJcGwAC0SmAV_c1CzsUtwjrPQQ",
+      "price": 100000
+    },
+    {
+      "name": "X-MOON+INFINITY+V8.3+VVIP BUY ONLY+SHARE DARI BANG ANZZ (1).zip",
+      "fileId": "BQACAgUAAxkBAAIBVWqZxaPOw6zy20l79qScmbvuBS7JAALRJQACXaExVO9oft18_seZPQQ",
+      "price": 100000
+    },
+    {
+      "name": "TAURUS V2 NO ENC.zip",
+      "fileId": "BQACAgUAAxkBAAIBVmqZxaMqEfE3LU0Pz0DZzBZf0xp6AALxEwACThoJVg410WkqETfRPQQ",
+      "price": 100000
+    },
+    {
+      "name": "AUTO ORDER PANEL MANUAL V2.zip",
+      "fileId": "BQACAgUAAxkBAAIBV2qZxaN8Jz9bZsvvAAGJ-OMq5Xp9ZAACYiQAAvrYkFRwq10cP_mmZT0E",
+      "price": 100000
+    },
+    {
+      "name": "Xinsoo V4 No enc.zip",
+      "fileId": "BQACAgEAAxkBAAIBWGqZxaOeyfUEARBUtiVJ4wcHXczaAAI4BwAC0IDRRXX3opklZWC4PQQ",
+      "price": 100000
+    },
+    {
+      "name": "AA NIKA LUFFY.zip",
+      "fileId": "BQACAgUAAxkBAAIBWWqZxaOhoZ4ZJzNBJNqZbCpUVZCTAALPIAACr38IVnvj2WDEQAx2PQQ",
+      "price": 100000
+    },
+    {
+      "name": "BASE WEB APK BETA (2) (4).zip",
+      "fileId": "BQACAgUAAxkBAAIBWmqZxaME6c7s1E3mgu8s3IPdigyWAAKfHwACelKhVw6cURSMxvxqPQQ",
+      "price": 100000
+    },
+    {
+      "name": "Valhalla V5 wa NO ENC.zip",
+      "fileId": "BQACAgUAAxkBAAIBW2qZxaOvDjQ-QJ_HLcC4gU2c6LcqAAIHHAACFxwQVbTWpAISBTZhPQQ",
+      "price": 100000
+    },
+    {
+      "name": "JUSTIN V23 NO ENC [ GYZEN ].zip",
+      "fileId": "BQACAgUAAxkBAAIBXGqZxaPVJdmuvTMCZpbwOJWE32SiAAIyHgAC0uS4VWOETKX8G9nKPQQ",
+      "price": 100000
+    },
+    {
+      "name": "ELAINA - MD.zip",
+      "fileId": "BQACAgUAAxkBAAIBXWqZxaM5oLJzy0BwgsGxL5s0VyVlAAJgHQACem8IV_nJJKYP-M0dPQQ",
+      "price": 100000
+    },
+    {
+      "name": "incus infinity1.0.zip",
+      "fileId": "BQACAgUAAxkBAAIBXmqZxaO1gM_ve_MQySVsreVPTCcqAAK0IAACr7CoVKEYXEXzRZZdPQQ",
+      "price": 100000
+    },
+    {
+      "name": "NEVERCURE STAR 1.0.zip",
+      "fileId": "BQACAgUAAxkBAAIBX2qZxaNyqUUHwp0q90w_HJTx4JkSAAJVIwACpHaZVLfpLnMHbBk1PQQ",
+      "price": 100000
+    },
+    {
+      "name": "BASE OTAX.zip",
+      "fileId": "BQACAgUAAxkBAAIBYGqZxaMOIW-a6snDricPYR3MhtAOAALsGwACX5K5VRtJyo3SISo-PQQ",
+      "price": 100000
+    },
+    {
+      "name": "SC RINAME YUZI.zip",
+      "fileId": "BQACAgUAAxkBAAIBYWqZxaOpHQPUM14MZY9F2B8z0udJAAL9IwAC9B1wVWg2_uean9KJPQQ",
+      "price": 100000
+    },
+    {
+      "name": "XStromFreezeChat.js",
+      "fileId": "BQACAgUAAxkBAAIBYmqZxaNwS-Px9sLsdXTK-1zLtgX2AAKIFgAC5EwIVToUplgJ1PMpPQQ",
+      "price": 100000
+    },
+    {
+      "name": "X - HUNTERR NEW.zip",
+      "fileId": "BQACAgUAAxkBAAIBY2qZxaP0Oy0J8P4uNZdzoFAFYhp5AALzIwAC9B1wVZNwC40t2JpcPQQ",
+      "price": 100000
+    },
+    {
+      "name": "AutoOrderAlex.zip",
+      "fileId": "BQACAgUAAxkBAAIBZGqZxaOv30p8FEbvkmuf8zfT1VktAAI2IQACbWYRVbVoRHck6JnbPQQ",
+      "price": 100000
+    },
+    {
+      "name": "DOCS CARASHER.zip",
+      "fileId": "BQACAgUAAxkBAAIBZWqZxaNaIsMyWyLCFV5UqXBVl9toAAIYIwACgbeoVHZdQfNB0Xd2PQQ",
+      "price": 100000
+    },
+    {
+      "name": "ELAINA - MD.zip",
+      "fileId": "BQACAgUAAxkBAAIBXWqZxaM5oLJzy0BwgsGxL5s0VyVlAAJgHQACem8IV_nJJKYP-M0dPQQ",
+      "price": 100000
+    },
+    {
+      "name": "Cara-amankan-vps-dari-hacking.pdf",
+      "fileId": "BQACAgUAAxkBAAIBZ2qZxaNvLffo09pzcCCn_AABSF1P5gACUx0AAoXyCVVqJHjKbXMdKD0E",
+      "price": 100000
+    },
+    {
+      "name": "BASEBUGALSHATA.zip",
+      "fileId": "BQACAgUAAxkBAAIBaGqZxaPqZsHlotjs2K4YD1SqP7XdAAKmKQACzLNQVanP21IUm_W2PQQ",
+      "price": 100000
+    },
+    {
+      "name": "auto Order Telegram.zip",
+      "fileId": "BQACAgUAAxkBAAIBaWqZxaOQBgwz5XRXULBlBxJRbiqwAAJaHQACem8IV0mkekOXqiIAAT0E",
+      "price": 100000
+    },
+    {
+      "name": "The orbix.zip",
+      "fileId": "BQACAgUAAxkBAAIBT2qZxaM03b2J9uZzlfF-gug1VBurAAKlIQACFnIZVL3gbGQtlFEMPQQ",
+      "price": 100000
+    },
+    {
+      "name": "KILL NODE BY ATOMIC.zip",
+      "fileId": "BQACAgUAAxkBAAIBa2qZxaOvSQ3VNlhkNioIIkwKtGqqAAIzHgACnS5xVVXOTpbb2_gGPQQ",
+      "price": 100000
+    },
+    {
+      "name": "Script RestApi ( Berita Indonesia Terkini ).zip",
+      "fileId": "BQACAgUAAxkBAAIBbGqZxaMrYGxP4JtYUzyElegmr3GDAAIRIAACSqhAVGQbk2HPzNXfPQQ",
+      "price": 100000
+    },
+    {
+      "name": "FIX MERAH MILZ.zip",
+      "fileId": "BQACAgUAAxkBAAIBbWqZxaOZDXbZKO2usMCoGLoTbdnNAAJAHgACW4NAVeihCTL6CIrKPQQ",
+      "price": 100000
+    },
+    {
+      "name": "base button.zip",
+      "fileId": "BQACAgUAAxkBAAIBbmqZxaM9qPxZ2VYP5j7l-33qhgJAAAIyFQACYi6oVXzqxNj7PZ5BPQQ",
+      "price": 100000
+    },
+    {
+      "name": "cpanel v6 aish.zip",
+      "fileId": "BQACAgUAAxkBAAIBb2qZxaPC_AKZuc7OogJ6C7RdQgtmAAL3HgACfFVoV49Q8-LjYtxwPQQ",
+      "price": 100000
+    },
+    {
+      "name": "AUTO ORDER PANEL ZAKKDEV.zip",
+      "fileId": "BQACAgUAAxkBAAIBcGqZxaN2hyW9X_s7TUhZKoaXrdILAAJkJAAC-tiQVMSFrabgvpipPQQ",
+      "price": 100000
+    },
+    {
+      "name": "SC BUILD VIA PANEL NO ENC.zip",
+      "fileId": "BQACAgUAAxkBAAIBcWqZxaPN1GmHZLu7BNa3cbYzM_ikAAJnHQACem8IV2nEGP_4n_QLPQQ",
+      "price": 100000
+    },
+    {
+      "name": "SCRIPT BAN GB GYZEN [ NO ENC ].zip",
+      "fileId": "BQACAgUAAxkBAAIBcmqZxaMug_bLq17t2RTGHFfHJV-nAAJ2IgACXwYxVu25z6_OsiZ9PQQ",
+      "price": 100000
+    },
+    {
+      "name": "SC BAN GB WA [ NO ENC ].zip",
+      "fileId": "BQACAgUAAxkBAAIBc2qZxaMFj3XUwX-QHKaxFpXND0BaAAKwIgACij8BVjHzTtMjqQt2PQQ",
+      "price": 100000
+    },
+    {
+      "name": "Zion-MD.zip",
+      "fileId": "BQACAgUAAxkBAAIBdGqZxaNaU3IjcQgbvkxU6IA7e7qrAAIqGQACfLOIVq6LtZgtqMqnPQQ",
+      "price": 100000
+    },
+    {
+      "name": "Sc Suntik-React By Xyro.zip",
+      "fileId": "BQACAgUAAxkBAAIBdWqZxaO-Z9rAT1lGFtpvrKhpK42UAAImIwACzHnQVD8U6j_8zvA7PQQ",
+      "price": 100000
+    },
+    {
+      "name": "DATABASE DEWA INVICTUS.zip",
+      "fileId": "BQACAgUAAxkBAAICZWqaW4FFpAEkggzar8EGO7v-F50eAAKhHgACAQjgVqD_jKjnTCXtPQQ",
+      "price": 100000
+    },
+    {
+      "name": "base rexsus no db.zip",
+      "fileId": "BQACAgUAAxkBAAICZmqaW4HPd4XloEMYAXNJXIak8U4LAAKiHgACAQjgVvLCo8DmaEMzPQQ",
+      "price": 100000
+    },
+    {
+      "name": "Website_All_Nokos.txt",
+      "fileId": "BQACAgUAAxkBAAICZ2qaW4GEudxBAQAB-DchjpQjvnyS_QACpSIAAjjbaFaywvDev6cxZT0E",
+      "price": 100000
+    },
+    {
+      "name": "SC_CPANELALZZ (1).zip",
+      "fileId": "BQACAgUAAxkBAAICaGqaW4GExi8f5JkhBE1Ixs1JQShBAAKqHgACAQjgVjrVQJ7bmgPSPQQ",
+      "price": 100000
+    },
+    {
+      "name": "SC OTP (1).zip",
+      "fileId": "BQACAgUAAxkBAAICaWqaW4FFWHdjuptX11yG6cxwJxPNAAKjHgACAQjgVvmYPvcIY5tCPQQ",
+      "price": 100000
+    },
+    {
+      "name": "APK BUG GACOOR.7z",
+      "fileId": "BQACAgUAAxkBAAICamqaW4HOk5nvzm4SROSwJtdSW9d6AAKlHgACAQjgVmzw56s6L1lrPQQ",
+      "price": 100000
+    },
+    {
+      "name": "VxzyFcVisibleV1.js",
+      "fileId": "BQACAgUAAxkBAAICa2qaW4H34hjm9v38CJeMVXr95HWxAAJkHAACNlppVsU1un5Z4ssSPQQ",
+      "price": 100000
+    },
+    {
+      "name": "SpackFreeze.js",
+      "fileId": "BQACAgUAAxkBAAICbGqaW4GNH4U4M_1MVmu-RdKGIxcKAAKuHgACAQjgVlvM_sAbWFkdPQQ",
+      "price": 100000
+    },
+    {
+      "name": "SC BYPAS VIA TELEGRAM.zip",
+      "fileId": "BQACAgUAAxkBAAICbWqaW4EhHKGF9CVNGzSJy7SD69W5AAJhHAACNlppVkJKAAHMPQsu8j0E",
+      "price": 100000
+    },
+    {
+      "name": "SC DATABASE WIDIX OFFICIAL.zip",
+      "fileId": "BQACAgUAAxkBAAICbmqaW4EC4DtwCp84vn1t9LgtDJafAAKvHgACAQjgVpKej_sUl4gyPQQ",
+      "price": 100000
+    },
+    {
+      "name": "Total Launcher v4.0.12 (40012).apk",
+      "fileId": "BQACAgIAAxkBAAICb2qaW4EXWfyY2eolDcM07qKdyonkAAIRqAACAVgBSDcwrlvZ1zTwPQQ",
+      "price": 100000
+    },
+    {
+      "name": "Cloudflare WARP v6.38.9 MOD.apk",
+      "fileId": "BQACAgIAAxkBAAICcGqaW4Gzlm-Se4TUmIGZETsolCR8AAJbrAACzPUBSHgMIG4nF6oAAT0E",
+      "price": 100000
+    },
+    {
+      "name": "Video Player All Format v2.8.2 b282000 arm7+arm64.apk",
+      "fileId": "BQACAgIAAxkBAAICcWqaW4FajRINTWQ7XdcS4H-siMEZAAJjqQACRBkAAUgSnYCT8-6AdD0E",
+      "price": 100000
+    },
+    {
+      "name": "LazyMedia Deluxe Pro 3.463fix.apk",
+      "fileId": "BQACAgIAAxkBAAICcmqaW4HRqAABnlYQaA0_i_oj6P2awgACKbEAAstTCEiqfAPr7h-a7z0E",
+      "price": 100000
+    },
+    {
+      "name": "ADM Pro v14.0.42.apk",
+      "fileId": "BQACAgIAAxkBAAICc2qaW4GfQrPTH7pGLmgU9_IvLtcgAALZpQACoRLJS8draDSn9p21PQQ",
+      "price": 100000
+    },
+    {
+      "name": "Snaptube VIP v7.66.1.76601001.apk",
+      "fileId": "BQACAgIAAxkBAAICdGqaW4GCKjmAQhJqrVGKfFQBNuhtAAIyowACzPUJSOtkLf82rDm_PQQ",
+      "price": 100000
+    },
+    {
+      "name": "FluxVPN v500 Mod.apk",
+      "fileId": "BQACAgQAAxkBAAICdWqaW4HYYhHl38pHNJvgsfxWX959AALiIQAC35cRULx_bHvFLjrDPQQ",
+      "price": 100000
+    },
+    {
+      "name": "Sc Suntik-React By Xyro.zip",
+      "fileId": "BQACAgUAAxkBAAIBdWqZxaO-Z9rAT1lGFtpvrKhpK42UAAImIwACzHnQVD8U6j_8zvA7PQQ",
+      "price": 1
+    }
+  ],
+  "redeemCodes": {
+    "CODEETEST": {
+      "reward": 10000000,
+      "limit": 5,
+      "claimedBy": [
+        8875869878,
+        1495914495
+      ]
+    },
+    "BOTCOINNEW": {
+      "reward": 100000,
+      "limit": 10,
+      "claimedBy": [
+        1495914495
+      ]
+    },
+    "CODENEWW": {
+      "reward": 100000,
+      "limit": 10,
+      "claimedBy": [
+        6614829903
+      ]
+    }
+  },
+  "maintenance": false
+}
