@@ -1,0 +1,67 @@
+[
+  {
+    "code": "testfitur",
+    "maxClaims": 1,
+    "claimCount": 1,
+    "amount": 10,
+    "usedBy": [
+      6614829903
+    ],
+    "createdAt": "2026-09-01T15:46:43.559Z",
+    "lastClaimAt": "2026-09-01T15:47:14.078Z"
+  },
+  {
+    "code": "testtfitururuur",
+    "maxClaims": 1,
+    "claimCount": 1,
+    "amount": 10,
+    "usedBy": [
+      6614829903
+    ],
+    "createdAt": "2026-09-01T16:03:13.714Z",
+    "lastClaimAt": "2026-09-01T16:05:11.923Z"
+  },
+  {
+    "code": "redeemkuy",
+    "maxClaims": 5,
+    "claimCount": 5,
+    "amount": 100,
+    "usedBy": [
+      6614829903,
+      1495914495,
+      8838040603,
+      8697684701,
+      8124426102
+    ],
+    "createdAt": "2026-09-01T16:12:42.011Z",
+    "lastClaimAt": "2026-09-02T10:36:55.848Z"
+  },
+  {
+    "code": "nihcodelagi",
+    "maxClaims": 10,
+    "claimCount": 5,
+    "amount": 999,
+    "usedBy": [
+      7193787015,
+      8692635553,
+      8934003678,
+      6980456029,
+      8270760862
+    ],
+    "createdAt": "2026-09-01T23:04:31.914Z",
+    "lastClaimAt": "2026-09-02T16:23:33.157Z"
+  },
+  {
+    "code": "woykodebaru",
+    "maxClaims": 5,
+    "claimCount": 3,
+    "amount": 100,
+    "usedBy": [
+      8750427603,
+      8270760862,
+      8641913689
+    ],
+    "createdAt": "2026-09-03T11:30:27.468Z",
+    "lastClaimAt": "2026-09-03T17:08:59.236Z"
+  }
+]
